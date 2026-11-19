@@ -1,14 +1,18 @@
 # Setup Guide
 
-## Prerequisites
+## Requirements
 
-- Python 3.8 or higher
-- Git 2.x or higher
+- Python 3
+- Git
+- Ubuntu Linux
 
-## How to Run
+## Installation
+
+1. Clone the repository.
+2. Navigate to the repository folder.
+3. Run the Python program.
+
+## Running the Program
 
 ```bash
-git clone <repo-url>
-cd cse103-lab-LAB3
 python3 src/main.py
-```
